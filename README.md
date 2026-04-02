@@ -4,6 +4,7 @@
 🌍 Based in the UK | Working with clients across the UK & Poland
 
 I design and build **modern, responsive websites** for small businesses, restaurants and personal brands — focused on clean design, strong UX and real business results.
+I create websites that help businesses attract more clients and grow online.
 
 ---
 
@@ -22,7 +23,7 @@ I design and build **modern, responsive websites** for small businesses, restaur
 
 ### 🍕 Sergio & Robi's Pizzeria Website
 
-Luxury catering website for an Italian wood-fired pizza business.
+Premium website designed to attract event bookings and showcase a high-end catering experience.
 → Focus: premium design, event bookings, strong visual identity
 
 🔗 https://sergiorobipizzeria.co.uk
