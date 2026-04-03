@@ -85,7 +85,7 @@ If you're looking for a website that not only looks great but also brings client
 
 ### 🍕 Sergio & Robi's Pizzeria
 
-<img width="1621" height="849" alt="sergio_robi_1" src="https://github.com/user-attachments/assets/b29a1dc3-331e-4666-9e72-05854d3d510b" />
+<img width="1561" height="835" alt="preview_Sergio_Robi" src="https://github.com/user-attachments/assets/b90ab059-d2ee-482c-bb7a-7812d9af47ab" />
 
 
 
