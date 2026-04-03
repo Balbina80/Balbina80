@@ -13,7 +13,7 @@ I create websites that help businesses attract more clients and grow online.
 * Website Design (from scratch)
 * Website Redesign
 * Mobile-first & responsive layouts
-* Basic SEO setup
+* SEO setup
 * Landing pages that convert
 * GitHub Pages deployment & domain setup
 
