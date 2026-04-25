@@ -87,7 +87,7 @@ If you're looking for a modern, user-focused website or would like to collaborat
 
 ### 🌐 BJ Studio – Portfolio
 
-<img width="1536" height="1024" alt="og-small-business-website-pl" src="https://github.com/user-attachments/assets/61dcac22-da16-4e26-9702-b00201bd2e02" />
+<img width="1536" height="1024" alt="og-small-business-website" src="https://github.com/user-attachments/assets/3e6dd903-8b88-4d8c-830f-a6356f78974c" />
 
 
 ---
