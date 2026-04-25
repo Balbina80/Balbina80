@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Barbara Jaskiewicz
 
-💻 Freelance Web Designer & Developer
-🌍 Based in the UK | Working with clients across the UK & Poland
+💻 Freelance Web Designer & Developer  
+🌍 Based in the UK | Working with clients across the UK & Poland  
 
-I design and build **modern, responsive websites** for small businesses, restaurants and personal brands — focused on clean design, strong UX and real business results.
+I design and build **modern, responsive websites** for small businesses, restaurants and personal brands — focused on clean design, strong UX and real business results.  
 I create websites that help businesses attract more clients and grow online.
 
 ---
@@ -19,12 +19,20 @@ I create websites that help businesses attract more clients and grow online.
 
 ---
 
+## 🎯 Current Focus
+
+- Web Design & UI/UX  
+- Building real client projects  
+- Developing design + front-end skills  
+
+---
+
 ## 💼 Selected Projects
 
 ### 🍕 Sergio & Robi's Pizzeria Website
 
-Premium website designed to attract event bookings and showcase a high-end catering experience.
-→ Focus: premium design, event bookings, strong visual identity
+Premium website designed to attract event bookings and showcase a high-end catering experience.  
+→ Focus: premium design, event bookings, strong visual identity  
 
 🔗 https://sergiorobipizzeria.co.uk
 
@@ -32,8 +40,8 @@ Premium website designed to attract event bookings and showcase a high-end cater
 
 ### 🏋️ AJ Fitness – Personal Trainer
 
-High-converting website for a personal trainer business.
-→ Focus: lead generation, mobile UX, clear CTA
+High-converting website for a personal trainer business.  
+→ Focus: lead generation, mobile UX, clear CTA  
 
 🔗 https://ajfitness.uk
 
@@ -41,8 +49,8 @@ High-converting website for a personal trainer business.
 
 ### 📷 Static Emotion Photo
 
-Elegant photography website focused on visual storytelling and brand identity.
-→ Focus: gallery experience, aesthetics, emotional design
+Elegant photography website focused on visual storytelling and brand identity.  
+→ Focus: gallery experience, aesthetics, emotional design  
 
 🔗 https://staticemotion.pl
 
@@ -50,8 +58,8 @@ Elegant photography website focused on visual storytelling and brand identity.
 
 ### 🌐 BJ Studio – Portfolio
 
-My personal brand and portfolio website.
-→ Focus: premium design, branding, service presentation
+My personal brand and portfolio website.  
+→ Focus: premium design, branding, service presentation  
 
 🔗 https://bjdesign.co.uk
 
@@ -67,9 +75,9 @@ My personal brand and portfolio website.
 
 ---
 
-## 📩 Let's work together
+## 📩 Contact
 
-If you're looking for a website that not only looks great but also brings clients — feel free to reach out.
+If you're looking for a modern, user-focused website or would like to collaborate, feel free to get in touch.
 
 📧 [contact@bjdesign.co.uk](mailto:contact@bjdesign.co.uk)
 
@@ -79,23 +87,46 @@ If you're looking for a website that not only looks great but also brings client
 
 ### 🌐 BJ Studio – Portfolio
 
-<img width="1735" height="792" alt="Screenshot 2026-03-25 213816" src="https://github.com/user-attachments/assets/855fa3f5-7bbc-4c12-8f0d-0ce3a9632c10" />
+<img width="1536" height="1024" alt="og-small-business-website-pl" src="https://github.com/user-attachments/assets/61dcac22-da16-4e26-9702-b00201bd2e02" />
 
 
+---
 
 ### 🍕 Sergio & Robi's Pizzeria
 
-<img width="1561" height="835" alt="preview_Sergio_Robi" src="https://github.com/user-attachments/assets/b90ab059-d2ee-482c-bb7a-7812d9af47ab" />
+<img width="1448" height="1086" alt="sergio-robi-mockup" src="https://github.com/user-attachments/assets/8d1b7b0d-14d2-4189-99ae-3480bebda8c4" />
 
 
+---
 
 ### 🏋️ AJ Fitness – Personal Trainer
 
-<img width="1719" height="848" alt="aj_fitness_2" src="https://github.com/user-attachments/assets/c8852f09-dc0f-4256-a960-c06bf8284942" />
+<img width="1448" height="1086" alt="aj-fitnes-mockup" src="https://github.com/user-attachments/assets/dffe49bf-698b-4a38-9f49-8fd61fd2d814" />
 
 
+---
 
 ### 📷 Static Emotion Photo
 
-<img width="1662" height="821" alt="static_emotion_1" src="https://github.com/user-attachments/assets/a8087a0e-0597-4caf-9b12-2e3614f1c2f1" />
+<img width="1448" height="1086" alt="static-emotion-mockup" src="https://github.com/user-attachments/assets/4f2a5a2d-fbb5-4e29-9cdb-86b0c2c4f922" />
+
+
+---
+
+### ✨ Shiny Clean (Before)
+
+<img width="1448" height="1086" alt="shiny-clean-before-mockup" src="https://github.com/user-attachments/assets/3ff10f38-aaab-46a0-bb0d-c925aaec4960" />
+
+
+---
+
+### ✨ Shiny Clean (After)
+
+<img width="1402" height="1122" alt="mb-shiny-clean-after-mockup" src="https://github.com/user-attachments/assets/1e7c94cc-dd8d-4a28-81ce-f89728b47f9c" />
+
+
+
+
+
+
 
