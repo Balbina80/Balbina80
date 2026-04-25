@@ -120,7 +120,7 @@ If you're looking for a modern, user-focused website or would like to collaborat
 
 ---
 
-### ✨ Shiny Clean (After)
+### ✨ MB Shiny Clean (After)
 
 <img width="1402" height="1122" alt="mb-shiny-clean-after-mockup" src="https://github.com/user-attachments/assets/1e7c94cc-dd8d-4a28-81ce-f89728b47f9c" />
 
